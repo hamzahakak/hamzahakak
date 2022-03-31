@@ -1,6 +1,6 @@
 # Hamza's Personal GitHub Page
 ## [Create Task](createTask.md)
-## [Replit](practice.md)
+## [Replit](replit.md)
 
 | TPT Notes/Actions | Personal Review Tickets | 
 |     :---:      |     :---:      |    
