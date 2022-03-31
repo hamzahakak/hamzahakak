@@ -1,6 +1,7 @@
 # Hamza's Personal GitHub Page
 ## [Create Task](createTask.md)
 ## [Replit](practice.md)
+
 | TPT Notes/Actions | Personal Review Tickets | 
 |     :---:      |     :---:      |    
 | [Week 0 TPT Notes](notes0.md)   | [Week 0](https://github.com/hamzahakak/hamzahakak/issues/1) |
